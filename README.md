@@ -2,6 +2,12 @@
 
 Sistema de gestão clínica desenvolvido com foco em **arquitetura escalável**, **boas práticas de engenharia de software** e preparação para evolução para microserviços.
 
+## Código-fonte
+
+A implementação completa deste projeto está mantida em um repositório privado.
+Este repositório público tem como objetivo apresentar a arquitetura, decisões técnicas e evolução do sistema.
+Caso tenha interesse em acesso ou detalhes técnicos adicionais, entre em contato.
+
 ## Tecnologias
 
 * Java 21
